@@ -1,0 +1,18 @@
+/* common  */
+.ex-p{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 100px;
+    border-bottom: 1px solid grey;
+}
+/* common  */
+/* ex-1 */
+.ex-1{
+    font-size: 25px;
+}
+.number-diy .data span{
+    color: white !important;
+    background-color: aqua;
+    border-radius: 20px;
+}
+/* ex-1 */
